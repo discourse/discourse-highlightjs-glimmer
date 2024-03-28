@@ -2216,6 +2216,11 @@ heimdalljs@^0.2.0, heimdalljs@^0.2.1, heimdalljs@^0.2.3, heimdalljs@^0.2.5, heim
   dependencies:
     rsvp "~3.2.1"
 
+highlightjs-glimmer@^2.2.0:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/highlightjs-glimmer/-/highlightjs-glimmer-2.2.1.tgz#05182b3df25f94afe4547df30f1dd89a60ce9466"
+  integrity sha512-5vQiop/MgoLSqms7PAwCYAWRxDHnwD24nWFV03k8deH14XbsAb7C27O/UQCk8/ofPp18nBc1LR4yTNIg1cIgPQ==
+
 html-tags@^3.3.1:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/html-tags/-/html-tags-3.3.1.tgz#a04026a18c882e4bba8a01a3d39cfe465d40b5ce"
